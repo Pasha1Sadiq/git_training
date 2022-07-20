@@ -4,3 +4,6 @@ conflict_test.txt
 =======
 i have modified this file after pull 
 >>>>>>> d731bffcdc9fa366fa26d57c28bc36dd724f4cdd
+
+adding new line and updating the file 
+
